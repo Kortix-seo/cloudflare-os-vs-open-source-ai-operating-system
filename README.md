@@ -1,6 +1,6 @@
-# Cloudflare OS vs. an open-source AI Operating System you own
+# Cloudflare OS vs. an open-source CompanyOS you own
 
-Kortix is open source. It is the open-source AI Operating System: agents, skills, company memory and connectors in one git repo you own, with every session on its own cloud computer.
+Kortix is open source. It is the open-source CompanyOS: agents, skills, company memory and connectors in one git repo you own, with every session on its own cloud computer.
 
 Cloudflare open sourced Cloudflare OS on 5 August 2026, and describes it as a system that "gives every person an agent and workspace built around their company". A large part of Cloudflare's own workforce uses it daily. It is built on Workers, Durable Objects and Dynamic Workers, it gives each person a private workspace plus small apps they can change, and it deploys into a Cloudflare account.
 
