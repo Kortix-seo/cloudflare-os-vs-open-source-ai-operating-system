@@ -34,4 +34,4 @@ Outside this repository, two pages go further into the decision: one on [what Cl
 
 ## Kortix on GitHub
 
-Kortix is developed in the open at [Kortix on GitHub](https://github.com/kortix-ai/suna). Read it, fork it, audit it.
+Kortix is developed in the open at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS). Read it, fork it, audit it.
